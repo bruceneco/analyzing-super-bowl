@@ -30,6 +30,7 @@ display(halftime_musicians.head())
 
 
 <div>
+
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
     }
@@ -179,6 +180,7 @@ display(halftime_musicians.head())
 
 
 <div>
+
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
     }
@@ -274,6 +276,7 @@ display(halftime_musicians.head())
 
 
 <div>
+
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
     }
@@ -622,6 +625,7 @@ display(super_bowls[super_bowls.difference_pts >= 35])
 
 
 <div>
+
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
     }
@@ -686,6 +690,7 @@ display(super_bowls[super_bowls.difference_pts >= 35])
 
 
 <div>
+
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
     }
